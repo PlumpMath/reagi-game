@@ -1,10 +1,10 @@
 # reagi-game
 
-FIXME: Write a one-line description of your library/project.
-
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Clojure Reactive Programming - Leonardo Borges
+
+Chapter 6. Building a Simple ClojureScript Game with Reagi
 
 ## Setup
 
